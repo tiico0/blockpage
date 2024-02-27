@@ -36,7 +36,7 @@ For ``NGiNX``, this is
 ```
 
 3. ``bash <(wget -qO- https://sputnik.roen.us/pipass/scripts/install.sh)`` - You may be prompted for elevated permissions using ``sudo``.
-
+ (alternative https://raw.githubusercontent.com/PiPass/bin/master/install.sh)
 4. Optional: fill out the ``config.php`` configuration file.
 
 Contributing
